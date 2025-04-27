@@ -4,12 +4,12 @@
 
 // ====== 모터 드라이버 핀 설정 ======
 const int motorA1 = 8;
-const int motorA2 = 9;
-const int motorPW_A = 3;
+const int motorA2 = 7;
+const int motorPW_A = 9;
 
 const int motorB1 = 10;
-const int motorB2 = 11;
-const int motorPW_B = 5;
+const int motorB2 = 12;
+const int motorPW_B = 11;
 
 const int switchPin = 2;
 
