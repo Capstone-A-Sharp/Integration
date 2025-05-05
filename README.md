@@ -10,3 +10,8 @@ All integration
 004_final: 최종 코드
 
 005_speed_change: 속도 변경 가능 코드(speed 부분만 수정해서 사용해면 됨.)
+
+006_immediate_reaction: 시리얼 입력에서 값을 입력했을 때, 즉각 멈추도록 코드 수정(Timeout 사용)
+
+007_JSON_change: JSON 데이터 포맷 변경
+(자이로 모든 값->피치 값만 / 압력센서 모든 값 -> 왼쪽,오른쪽 LOW SUM 값만)
